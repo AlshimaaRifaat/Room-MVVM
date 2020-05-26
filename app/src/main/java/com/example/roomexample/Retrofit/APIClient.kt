@@ -1,14 +1,5 @@
 package com.example.roomexample.Retrofit
 
-import com.example.roomexample.Constants
-import com.google.gson.Gson
-import retrofit2.converter.gson.GsonConverterFactory
-import retrofit2.Retrofit
-import okhttp3.OkHttpClient
-import com.google.gson.GsonBuilder
-
-import java.util.concurrent.TimeUnit
-
 
 class APIClient {
 
